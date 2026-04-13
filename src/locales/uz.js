@@ -1,0 +1,30 @@
+const uz = {
+  profile: "Profil",
+  about: "Men haqimda",
+  title: "Frontend Dasturchi",
+  location: "Manzil",
+  email: "Elektron pochta",
+  phone: "Telefon",
+  portfolio: "Portfolio",
+  links: "Havolalar",
+  contactMe: "Men bilan bog'lanish",
+  viewPortfolio: "Portfolioni ko'rish",
+  github: "GitHub",
+  linkedin: "LinkedIn",
+  telegram: "Telegram",
+  instagram: "Instagram",
+  facebook: "Facebook",
+  youtube: "YouTube",
+  x: "X (Twitter)",
+  theme: "Mavzu",
+  language: "Til",
+  lightMode: "Yorug' rejim",
+  darkMode: "Qorong'i rejim",
+  info: "Ma'lumot",
+  close: "Yopish",
+  moreInfo: "Batafsil",
+  description:
+    "Salom! Men Azizjon Norimboyev — tajribali Frontend dasturchiman. Zamonaviy veb-ilovalar yaratish bo'yicha ixtisoslashganman.",
+};
+
+export default uz;

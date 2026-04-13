@@ -1,0 +1,30 @@
+const ru = {
+  profile: "Профиль",
+  about: "Обо мне",
+  title: "Фронтенд-разработчик",
+  location: "Местоположение",
+  email: "Электронная почта",
+  phone: "Телефон",
+  portfolio: "Портфолио",
+  links: "Ссылки",
+  contactMe: "Связаться со мной",
+  viewPortfolio: "Посмотреть портфолио",
+  github: "GitHub",
+  linkedin: "LinkedIn",
+  telegram: "Telegram",
+  instagram: "Instagram",
+  facebook: "Facebook",
+  youtube: "YouTube",
+  x: "X (Twitter)",
+  theme: "Тема",
+  language: "Язык",
+  lightMode: "Светлая тема",
+  darkMode: "Тёмная тема",
+  info: "Информация",
+  close: "Закрыть",
+  moreInfo: "Подробнее",
+  description:
+    "Привет! Я Азизжон Норимбоев — опытный фронтенд-разработчик, специализирующийся на создании современных веб-приложений.",
+};
+
+export default ru;

@@ -1,5 +1,6 @@
 import React, { useState, createContext, useEffect, useCallback } from "react";
 import Profile from "./components/Profile";
+import "./App.css";
 import "./index.css";
 import userData from "./data/userData";
 

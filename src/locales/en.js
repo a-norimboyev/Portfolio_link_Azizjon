@@ -1,0 +1,30 @@
+const en = {
+  profile: "Profile",
+  about: "About Me",
+  title: "Frontend Developer",
+  location: "Location",
+  email: "Email",
+  phone: "Phone",
+  portfolio: "Portfolio",
+  links: "Links",
+  contactMe: "Contact Me",
+  viewPortfolio: "View Portfolio",
+  github: "GitHub",
+  linkedin: "LinkedIn",
+  telegram: "Telegram",
+  instagram: "Instagram",
+  facebook: "Facebook",
+  youtube: "YouTube",
+  x: "X (Twitter)",
+  theme: "Theme",
+  language: "Language",
+  lightMode: "Light Mode",
+  darkMode: "Dark Mode",
+  info: "Info",
+  close: "Close",
+  moreInfo: "More Info",
+  description:
+    "Hi! I'm Azizjon Norimboyev — an experienced Frontend developer specializing in building modern web applications.",
+};
+
+export default en;
