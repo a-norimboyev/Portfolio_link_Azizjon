@@ -24,7 +24,7 @@ const en = {
   close: "Close",
   moreInfo: "More Info",
   description:
-    "Hi! I'm Azizjon Norimboyev — an experienced Frontend developer specializing in building modern web applications.",
+    "Hello! I'm Azizjon Norimboyev — a developer with over 2 years of experience in frontend. I create modern, fast, and user-friendly web applications. We also accept orders.",
 };
 
 export default en;

@@ -24,7 +24,7 @@ const uz = {
   close: "Yopish",
   moreInfo: "Batafsil",
   description:
-    "Salom! Men Azizjon Norimboyev — tajribali Frontend dasturchiman. Zamonaviy veb-ilovalar yaratish bo'yicha ixtisoslashganman.",
+    "Assalomu alaykum! Men Azizjon Norimboyev — frontend sohasida 2 yildan ortiq tajribaga ega dasturchi. Zamonaviy, tezkor va qulay veb-ilovalar yarataman. Shuningdek, zakazlar ham qabul qilamiz.",
 };
 
 export default uz;
